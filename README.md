@@ -1,2 +1,3 @@
 # natours-project
-# This website was design from Jonas Schmedtmann
+	Web design by Jonas Schmedtmann
+	This website is just for fun. Pure HMTL, CSS, and SASS.
